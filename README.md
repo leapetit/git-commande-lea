@@ -1,5 +1,6 @@
 # git-commande-lea
 1. git init 
+> permet d'initialiser un projet
 
 fusionner les 2 branches
 

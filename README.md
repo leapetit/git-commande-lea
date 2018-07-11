@@ -1,4 +1,4 @@
-# git-commande-lea
+﻿# git-commande-lea
 1. ```git init```
 > permet d'initialiser un projet
 
@@ -12,3 +12,5 @@ fusionner les 2 branches
 7. ```git fech```
 
 Et une fusée :rocket:
+
+Et rock :metal:
